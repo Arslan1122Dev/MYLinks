@@ -4,5 +4,5 @@
   "Custom_Ad_Icons_URL" : [ "https://lh3.googleusercontent.com/cWTIO8j4W3iXZBQRFUhtcGMXZ8NzfX6dJIZCMv6wjN1RYx58NxtNn8I3uOrnEXpqeW8=s180", "https://lh3.googleusercontent.com/cWTIO8j4W3iXZBQRFUhtcGMXZ8NzfX6dJIZCMv6wjN1RYx58NxtNn8I3uOrnEXpqeW8=s180", "https://lh3.googleusercontent.com/cWTIO8j4W3iXZBQRFUhtcGMXZ8NzfX6dJIZCMv6wjN1RYx58NxtNn8I3uOrnEXpqeW8=s180" ],
   "Custom_Ad_ScreenShots_URL" : [ "https://lh3.googleusercontent.com/kRcjWLeXyuobOx9bDXpfhPSvA8EM0Sftv617JmZXh5N6kMuaH0Rg-QztLVhv7BGkc1A", "https://lh3.googleusercontent.com/NFfrC0Hy8CZBptyNjQY4zGOaBKMwn1Lj8k0ny8INzD7moReFC_6EOgH7_giu2J6s3Ds", "https://lh3.googleusercontent.com/S80Ae4qCyBa5qMPKbkyylzXoi5PtPrr-z3kAgkniJFNcHCEUcbKEWR8Trc34I4J1hLU=w1920-h937" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
-  "Start_Showing_Ads" : false
+  "Start_Showing_Ads" : true
 }
