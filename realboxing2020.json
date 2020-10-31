@@ -1,8 +1,8 @@
 {
   "Ad_Priority" : "0",
-  "Custom_Ad_Download_link" : [ "com.Game.io.MegaRampCarRacing", "com.gameio.ghazitv_ertugrulghaziinurdu", "com.videodownloader.freevideodownloader2020" ],
-  "Custom_Ad_Icons_URL" : [ "https://lh3.googleusercontent.com/cWTIO8j4W3iXZBQRFUhtcGMXZ8NzfX6dJIZCMv6wjN1RYx58NxtNn8I3uOrnEXpqeW8=s180", "https://lh3.googleusercontent.com/cWTIO8j4W3iXZBQRFUhtcGMXZ8NzfX6dJIZCMv6wjN1RYx58NxtNn8I3uOrnEXpqeW8=s180", "https://lh3.googleusercontent.com/cWTIO8j4W3iXZBQRFUhtcGMXZ8NzfX6dJIZCMv6wjN1RYx58NxtNn8I3uOrnEXpqeW8=s180" ],
-  "Custom_Ad_ScreenShots_URL" : [ "https://lh3.googleusercontent.com/kRcjWLeXyuobOx9bDXpfhPSvA8EM0Sftv617JmZXh5N6kMuaH0Rg-QztLVhv7BGkc1A", "https://lh3.googleusercontent.com/NFfrC0Hy8CZBptyNjQY4zGOaBKMwn1Lj8k0ny8INzD7moReFC_6EOgH7_giu2J6s3Ds", "https://lh3.googleusercontent.com/S80Ae4qCyBa5qMPKbkyylzXoi5PtPrr-z3kAgkniJFNcHCEUcbKEWR8Trc34I4J1hLU=w1920-h937" ],
+  "Custom_Ad_Download_link" : [ "com.arashi.ninja.shadow.fight.samurai.assassin", "com.Extreme.Offroad.Jeep.Parking", "com.arashi.ninja.shadow.fight.samurai.assassin" ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/lHB3eLv4Fd8QhLz9nuiEbIlI-uzeguxZv2H3kaMhZ1-M6FJ-DwAUqXe0YTzQbwJ7Sw", "https://play-lh.googleusercontent.com/9J1qGI6Rpi2E_mrSCzlmetl9iCx8FmMIiSk1u_151_PenOEAhSD2FS2sBkwpnauKaXI6", "https://play-lh.googleusercontent.com/yARnS2Nq-w6xxhiC67FYF9_d3t6FByF4KEjJxDdfmh7vNTER_ofSC0ZKl-_z5RaFrA=s180" ],
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/JfKXRmBJ4iS4EX0fyOCeyHh_wX3VmHq98ji51wJxY7JxNoLufiRYpkaJtdMB9MjwC-g=w720-h310", "https://play-lh.googleusercontent.com/TIwLc45winepWYrp4OgJTCOHaf5x-pHB9y_xZqHIoBvCHypHSZoN3Uz7ei9lEfgJ64_U=w720-h310", "https://play-lh.googleusercontent.com/Dr0TNTfrAbupsuQlZSxk7RiT82sEVtsHKCa6RQqxEAFKgNBF0hNvDz9q2Dz5urDLqw=w720-h310" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
 }
