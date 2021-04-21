@@ -1,8 +1,8 @@
 {
   "Ad_Priority" : "0",
-  "Custom_Ad_Download_link" : [ "com.superhero.fighting.games.Real.Boxing", "com.Extreme.Offroad.Jeep.Parking", "com.Game.io.MegaRampCarRacing" ],
-  "Custom_Ad_Icons_URL" : [ "https://lh3.googleusercontent.com/A3o8wvAHJomu95eqiZWWDi8F6xfsXUalp-ce_r6lsUsFWqSpxCYpD181C4X4bbUUadMJ", "https://play-lh.googleusercontent.com/9J1qGI6Rpi2E_mrSCzlmetl9iCx8FmMIiSk1u_151_PenOEAhSD2FS2sBkwpnauKaXI6=s180", "https://play-lh.googleusercontent.com/LmAWI8ogL2d5FGH96QtCfnDVgV5mvpxHpd6iQJRD9uKZrWb5OaBvOgvwlDElcxyVCLEi=s180" ],
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/SkskCxS-ZSjIJf22UvNPceQfxpAd--dOKGg6TKymZtLFVkQ-3kZmq6iwpxIIPUdx9rs=w720-h310", "https://play-lh.googleusercontent.com/eMblEIqGj978qHGqmjT_tc4lj-DmcOiWbqCF2ab_p0fNQbCJ_HRARUXVO97SfdXi0SM=w720-h310", "https://play-lh.googleusercontent.com/ABWEsvnM_4p1Viery_1iT1ZxccpJG8pMiqhY6M70yC-5rELPTw2UVRWOCOpYitKRvs7j=w720-h310" ],
+  "Custom_Ad_Download_link" : [ "com.superhero.fighting.games.Real.Boxing", "com.Game.io.MegaRampCarRacing", "com.Game.io.MegaRampCarRacing" ],
+  "Custom_Ad_Icons_URL" : [ "https://lh3.googleusercontent.com/A3o8wvAHJomu95eqiZWWDi8F6xfsXUalp-ce_r6lsUsFWqSpxCYpD181C4X4bbUUadMJ", "https://play-lh.googleusercontent.com/x5uSpuWeyUdctlN7ZDGGdIP5XUuEmfJnbxaR1kiN7hd87MBPJrzhz_83Gjr6TY29gQ=s180", "https://play-lh.googleusercontent.com/LmAWI8ogL2d5FGH96QtCfnDVgV5mvpxHpd6iQJRD9uKZrWb5OaBvOgvwlDElcxyVCLEi=s180" ],
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/SkskCxS-ZSjIJf22UvNPceQfxpAd--dOKGg6TKymZtLFVkQ-3kZmq6iwpxIIPUdx9rs=w720-h310", "https://play-lh.googleusercontent.com/JcoS9u42X_Ma7SastLfrfE9Sxzk_5WpbNFMltlzLrYf6xAzWMOCszV2D6BHmZseV0uU=w720-h310", "https://play-lh.googleusercontent.com/ABWEsvnM_4p1Viery_1iT1ZxccpJG8pMiqhY6M70yC-5rELPTw2UVRWOCOpYitKRvs7j=w720-h310" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
 }
