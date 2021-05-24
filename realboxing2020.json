@@ -1,11 +1,13 @@
 {
   "Ad_Priority" : "0",
-  "Custom_Ad_Download_link" : [ "com.arashi.ninja.shadow.fight.samurai.assassin", "com.Game.io.MegaRampCarRacing", "com.arashi.ninja.shadow.fight.samurai.assassin" ],
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/lHB3eLv4Fd8QhLz9nuiEbIlI-uzeguxZv2H3kaMhZ1-M6FJ-DwAUqXe0YTzQbwJ7Sw", 
+  "Custom_Ad_Download_link" : [ "com.real.fps.cover.strike.shooter.team.death.match.tdm.counter.terrorist.shooting.games",
+                               "com.Game.io.MegaRampCarRacing",
+                               "com.arashi.ninja.shadow.fight.samurai.assassin" ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/JT2yyrO_smpoRV4l3xV8myrr3NRYo8waEq5lDz2511sbluK0BmFabxd9YKYyjyUiiQ=s180", 
                            "https://play-lh.googleusercontent.com/LmAWI8ogL2d5FGH96QtCfnDVgV5mvpxHpd6iQJRD9uKZrWb5OaBvOgvwlDElcxyVCLEi=s180", 
                            "https://play-lh.googleusercontent.com/yARnS2Nq-w6xxhiC67FYF9_d3t6FByF4KEjJxDdfmh7vNTER_ofSC0ZKl-_z5RaFrA=s180" ],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/JfKXRmBJ4iS4EX0fyOCeyHh_wX3VmHq98ji51wJxY7JxNoLufiRYpkaJtdMB9MjwC-g=w720-h310",
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/F_LOhHHcFBkTdVT9r4xVwiGPedbOjvZim_7hwpk2kPEEBRbBma9dTTRuYwVkAefluIU=w1536-h754",
                                  "https://play-lh.googleusercontent.com/sQiTZaNP719gz7JvihWOnImtFCCF7vFypsjf053Dvbx0pyt_75kOhKrrqOmbrm7kCJo=w720-h310",
                                  "https://play-lh.googleusercontent.com/Dr0TNTfrAbupsuQlZSxk7RiT82sEVtsHKCa6RQqxEAFKgNBF0hNvDz9q2Dz5urDLqw=w720-h310" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
