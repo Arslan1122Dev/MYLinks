@@ -1,16 +1,16 @@
 {
   "Ad_Priority" : "0",
-  "Custom_Ad_Download_link" : [ "com.real.fps.cover.strike.shooter.team.death.match.tdm.counter.terrorist.shooting.games",
+  "Custom_Ad_Download_link" : [ "com.Game.io.OffroadJeepParking",
                                "com.Game.io.OffroadJeepParking", 
-                               "com.arashi.ninja.shadow.fight.samurai.assassin" ],
+                               "com.Game.io.OffroadJeepParking" ],
   
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/JT2yyrO_smpoRV4l3xV8myrr3NRYo8waEq5lDz2511sbluK0BmFabxd9YKYyjyUiiQ=s180",
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/ISVFvULBEm9zvCAVIxxlal5TUeVFIGdeejmH2fuaxv-LymI4Jd6770Oi3PqsM75G5O6d=s180",
                            "https://play-lh.googleusercontent.com/9J1qGI6Rpi2E_mrSCzlmetl9iCx8FmMIiSk1u_151_PenOEAhSD2FS2sBkwpnauKaXI6=s180", 
-                           "https://play-lh.googleusercontent.com/lHB3eLv4Fd8QhLz9nuiEbIlI-uzeguxZv2H3kaMhZ1-M6FJ-DwAUqXe0YTzQbwJ7Sw=s180" ],
+                           "https://play-lh.googleusercontent.com/VIjwM8pMvyXfiZY479btDLjVxufUmnqd59jiGGL2KPi9WS-7hpl1bH3oOkg7dhQiAts=s180" ],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/h20Yo-q_fku8MKWQXtTf2q8wVpLW00v0ca5SeX0IyVgFbgXmhu6Xu-c5U6wytvfHV02H=w1536-h754",
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/FBK5OOKTvcUjVaiYiGk9Dgj7sMJ7ZNtMZEYf_tUOt1wi93i8OIQHccrIs3TMfTDjF4E=w720-h310",
                                  "https://play-lh.googleusercontent.com/eMblEIqGj978qHGqmjT_tc4lj-DmcOiWbqCF2ab_p0fNQbCJ_HRARUXVO97SfdXi0SM=w720-h310",
-                                 "https://play-lh.googleusercontent.com/Dr0TNTfrAbupsuQlZSxk7RiT82sEVtsHKCa6RQqxEAFKgNBF0hNvDz9q2Dz5urDLqw=w1536-h722" ],
+                                 "https://play-lh.googleusercontent.com/46rfSVa0j7JQ9ANs8k3QlQMug4yNAwsyA1o_WDy-6tvDgRjjzsFHXzR2xQCJS26SyLc=w1536-h754" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
 }
