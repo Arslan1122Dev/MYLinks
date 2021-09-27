@@ -1,16 +1,16 @@
 {
   "Ad_Priority" : "0",
-  "Custom_Ad_Download_link" : [ "com.Game.io.OffroadJeepParking",
-                               "com.Game.io.OffroadJeepParking", 
-                               "com.Game.io.OffroadJeepParking" ],
+  "Custom_Ad_Download_link" : [ "com.spider.man.rope.hero.superhero.vice.city.ganster",
+                               "com.spider.man.rope.hero.superhero.vice.city.ganster", 
+                               "com.spider.man.rope.hero.superhero.vice.city.ganster" ],
   
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/ISVFvULBEm9zvCAVIxxlal5TUeVFIGdeejmH2fuaxv-LymI4Jd6770Oi3PqsM75G5O6d=s180",
-                           "https://play-lh.googleusercontent.com/9J1qGI6Rpi2E_mrSCzlmetl9iCx8FmMIiSk1u_151_PenOEAhSD2FS2sBkwpnauKaXI6=s180", 
-                           "https://play-lh.googleusercontent.com/VIjwM8pMvyXfiZY479btDLjVxufUmnqd59jiGGL2KPi9WS-7hpl1bH3oOkg7dhQiAts=s180" ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/cDu9bqpyrUybQR5BYp0C-CBSrJ-TmFlrhK1OUtNOPHI6RS0jkqkiGrdcyrOTZp3PYAo=s180",
+                           "https://play-lh.googleusercontent.com/1dqGfLhZ3YAoYdPxkgae5Aagv8Q2Mnzbibg1-cADvPdU5tPu6j-1radMEquvy5oLkK4=s180", 
+                           "https://play-lh.googleusercontent.com/U5j70QZJz64sRzTuY6JA4c9POELayUaPNo0zhMW5Dq30AfeRNFzLXczdgqDPaZTjujI=s180" ],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/FBK5OOKTvcUjVaiYiGk9Dgj7sMJ7ZNtMZEYf_tUOt1wi93i8OIQHccrIs3TMfTDjF4E=w720-h310",
-                                 "https://play-lh.googleusercontent.com/eMblEIqGj978qHGqmjT_tc4lj-DmcOiWbqCF2ab_p0fNQbCJ_HRARUXVO97SfdXi0SM=w720-h310",
-                                 "https://play-lh.googleusercontent.com/46rfSVa0j7JQ9ANs8k3QlQMug4yNAwsyA1o_WDy-6tvDgRjjzsFHXzR2xQCJS26SyLc=w1536-h754" ],
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/CqECElDHdfSd_eScDZOUJgZRIUHZgGQWmZe9cNdrSaCEQuprzkRc0uEMFrZS1-45_6si=w1920-h969",
+                                 "https://play-lh.googleusercontent.com/ChXPdL5z_tj6OUn38UX3NmqUSLjZDw5ekw8OFf3OSoh9cx6E_9dyQktea9-R8y_HKc0=w720-h310",
+                                 "https://play-lh.googleusercontent.com/wUwU3GYGI-hdnbTf_i8tREriRLJV2UL8SHr8CUIm5vWGWjX9x5c0vpcrjdrOGA6nsw=w720-h310" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
 }
