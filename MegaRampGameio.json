@@ -1,16 +1,15 @@
 {
   "Ad_Priority" : "0",
-  "Custom_Ad_Download_link" : [ "com.spider.man.rope.hero.superhero.vice.city.ganster",
-                               "com.spider.man.rope.hero.superhero.vice.city.ganster", 
-                               "com.spider.man.rope.hero.superhero.vice.city.ganster" ],
+  "Custom_Ad_Download_link" : [ "com.highzone.impossible.monster.truck.mega.ramps.ultimate.races", 
+                               "com.highzone.impossible.monster.truck.mega.ramps.ultimate.races", 
+                               "com.highzone.impossible.monster.truck.mega.ramps.ultimate.races" ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/C75_-QAatKzizHT5aYJ2vvvduhfGpD2gTvz3w_jvkdA5fDDSXkokFrQQZa1IffhfKfI=s180", 
+                           "https://play-lh.googleusercontent.com/Poww2qc2AD1_pUnH_BgsLjoYJqeuFmhc8O1N-4p9kGA0esgUN5aFu55oGkJx-9_erxM=s180", 
+                           "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180" ],
   
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/cDu9bqpyrUybQR5BYp0C-CBSrJ-TmFlrhK1OUtNOPHI6RS0jkqkiGrdcyrOTZp3PYAo=s180",
-                           "https://play-lh.googleusercontent.com/1dqGfLhZ3YAoYdPxkgae5Aagv8Q2Mnzbibg1-cADvPdU5tPu6j-1radMEquvy5oLkK4=s180", 
-                           "https://play-lh.googleusercontent.com/U5j70QZJz64sRzTuY6JA4c9POELayUaPNo0zhMW5Dq30AfeRNFzLXczdgqDPaZTjujI=s180" ],
-  
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/CqECElDHdfSd_eScDZOUJgZRIUHZgGQWmZe9cNdrSaCEQuprzkRc0uEMFrZS1-45_6si=w1920-h969",
-                                 "https://play-lh.googleusercontent.com/ChXPdL5z_tj6OUn38UX3NmqUSLjZDw5ekw8OFf3OSoh9cx6E_9dyQktea9-R8y_HKc0=w720-h310",
-                                 "https://play-lh.googleusercontent.com/wUwU3GYGI-hdnbTf_i8tREriRLJV2UL8SHr8CUIm5vWGWjX9x5c0vpcrjdrOGA6nsw=w720-h310" ],
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/w3efrnJo4mZhyaZEereV6xtoh6ud7HMmo5d7lBVjiNc59P782QccGaCnporrmG2WLw=w1920-h969", 
+                                 "https://play-lh.googleusercontent.com/8aUH3BObACT0vV9PxDsDw9rCHZCjma1yV5p3XczoRYULssvx5BfvR6_MMaS1X_jMF8Q=w1920-h969", 
+                                 "https://play-lh.googleusercontent.com/9mhfQ0gUsnBhyYHxd8W2FLZWFmhKlo12A1CRpL1XTcRBYCm6kpDr4RAcVyhuTNuu=w1920-h969" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
 }
