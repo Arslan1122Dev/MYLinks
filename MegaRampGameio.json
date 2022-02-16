@@ -1,15 +1,15 @@
 {
   "Ad_Priority" : "0",
-  "Custom_Ad_Download_link" : [ "com.tcg.superhero.spider.stickman.ninja.shinobi.warriors.fight", 
-                               "com.tcg.city.coach.bus.simulator.bus.driving.games.parking.games", 
-                               "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races" ],
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/52RIQzGlELHbivx137Y-g2K8HuVGlONK1hPgwLlmHo1JmSYM-whpM7PIGSHL9VUW-d8=s180", 
-                           "https://play-lh.googleusercontent.com/okNcUk4bGDOFjs4QH8sihqykdqZfuz-ScMSw91ZK0j42uTU8MCfwfnBTyLXynU5AslpW=s180", 
-                          "https://play-lh.googleusercontent.com/M5UuqwaDWdBLuTSB0rB0zFGTWbUxwPJBquB6g8ATvGDLw8hKQAZQIS_f1TmYXk-SL3Gt=s180"],
+  "Custom_Ad_Download_link" : [ "com.fgs.formula.car.stunts.track.racing.games", 
+                               "com.fgs.formula.car.stunts.track.racing.games", 
+                               "com.fgs.formula.car.stunts.track.racing.games" ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/3uu5RqPyMoXipBYR9tGvhplEgAIzkYkU97_FzwrJJFHkZYNve1H-_FSdgbs3Cv4ubw=s180", 
+                           "https://play-lh.googleusercontent.com/G1uzA-JL5T-4Dl7V-p9l0jda2EP8AXR1QQdT-GGZOQaizy5-Q5wbf1ycpv6sAbUndw=s180", 
+                          "https://play-lh.googleusercontent.com/rcnIcQW8SXljLQ1xDwlYg-SeM0RdcGcB5Mo0kEOotDr7HhxGLBuri8H4PLCJtMvseCA=s180"],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/4QomkdXNoK3vCsUKrE8Hv5Q6MpbzGRhplEnK8M8PMQ9FzsjPrsBGSEBqk7uvQH-aGzE=w1536-h722", 
-                                 "https://play-lh.googleusercontent.com/yQBqmT8pLbWC2y7v6z28TFuiKtBDRIIdNfoxcBKQe7E8j4htY-zyx6BYnhW5P1iC92o=w1536-h722", 
-                                "https://play-lh.googleusercontent.com/5mQVp1Gs7f6LxCce1G0wfy-5hIeA7C-wCSRKHDA1HD9F0-cbziZCqI7HkVVyokaFCOI=w1536-h722" ],
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/lh1IHNBfS2QmkHfJKcQtCzEVWVETsu4TKdFALkJ7vbX8ZNJRB2lIkW2Hp1-Uyw7IpUo=w1533-h717", 
+                                 "https://play-lh.googleusercontent.com/NGvJINsiX4uHb2Cs2vhGUIpzusGjtlShmgccvqNNoUhbt4HzmIUiHB0raVONnb5m-yA=w1745-h852", 
+                                "https://play-lh.googleusercontent.com/PqYba6gKGzKXlrPNw0IAiIqqHtIFtzU0jgMPfgXCeCsD31KB0qvhRscEeJ87xqoF5pg=w1745-h852" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
 }
